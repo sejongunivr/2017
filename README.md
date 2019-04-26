@@ -4,7 +4,7 @@
 
 <br>
 
-## 프로젝트 목록
+## Project Contents
 아래목록의 모든 VR콘텐츠는  
 Google Play의 VR World 앱에서 확인하실 수 있습니다.  
 [https://play.google.com/store/apps/details?id=com.ninevr.vrworld](https://play.google.com/store/apps/details?id=com.ninevr.vrworld)
