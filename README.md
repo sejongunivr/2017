@@ -1,7 +1,7 @@
 # Project in 2017
 2017년 콘텐츠
 이하목록의 모든 VR콘텐츠는  
-Google Play의 VR World 앱에서 확인하실 수 있습니다.
+Google Play의 VR World 앱에서 확인하실 수 있습니다.  
 [https://play.google.com/store/apps/details?id=com.ninevr.vrworld](https://play.google.com/store/apps/details?id=com.ninevr.vrworld)
 ![vrworld](https://user-images.githubusercontent.com/38516906/56814686-a8df0e00-687a-11e9-8ede-a575619f13a0.PNG)
 
