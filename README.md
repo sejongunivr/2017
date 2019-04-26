@@ -1,12 +1,11 @@
 # Project in 2017
-2017년 콘텐츠
-이하목록의 모든 VR콘텐츠는  
+아래목록의 모든 VR콘텐츠는  
 Google Play의 VR World 앱에서 확인하실 수 있습니다.  
 [https://play.google.com/store/apps/details?id=com.ninevr.vrworld](https://play.google.com/store/apps/details?id=com.ninevr.vrworld)
 ![vrworld](https://user-images.githubusercontent.com/38516906/56814686-a8df0e00-687a-11e9-8ede-a575619f13a0.PNG)
 
 
-### UNIVR 활동내역
+### 프로젝트 목록
 | 프로젝트<br>종류 | 프로젝트<br>제목 |  장르  | 설명 |
 |:---:|:---:|:---:|:---:|
 | VR<br>프로젝트 | ABC 글자공부 VR | 교육 | 일상생활에서 흔히 볼 수 있는 물건에서<br>글자들을 추상하여 공부할 수 있다. |
