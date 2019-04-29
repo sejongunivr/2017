@@ -4,7 +4,7 @@
 
 <br>
 
-## Project Contents
+## [Project Contents]
 아래목록의 모든 VR콘텐츠는  
 Google Play의 VR World 앱에서 확인하실 수 있습니다.  
 [https://play.google.com/store/apps/details?id=com.ninevr.vrworld](https://play.google.com/store/apps/details?id=com.ninevr.vrworld)
@@ -20,7 +20,7 @@ Google Play의 VR World 앱에서 확인하실 수 있습니다.
 
 <br>
 
-## History
+## [History]
 * **05/25~05/27** 제13회 대한민국 청소년박람회에서 VR부스 운영
 * **09/23** 2017 세운 메이커 페스티벌에서 VR부스 운영
 * 안중근 의사 교육 문화 재단 의뢰: 안중근의사 VR콘텐츠(안중근의 방, 안중근의 일생) 제작
